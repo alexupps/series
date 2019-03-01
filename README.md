@@ -1,2 +1,2 @@
 # series
-web local server series
+Website Interface for Local Server Series alternative to plex but need more changes...
